@@ -1,0 +1,26 @@
+C:\MyLearn\MyWPFWin\MyMacSolution\Demo.Common\bin\Debug\Demo.Common.dll
+C:\MyLearn\MyWPFWin\MyMacSolution\Demo.Common\bin\Debug\Demo.Common.pdb
+C:\MyLearn\MyWPFWin\MyMacSolution\WpfApplication1\bin\Debug\Demo.Common.dll
+C:\MyLearn\MyWPFWin\MyMacSolution\WpfApplication1\bin\Debug\Demo.Common.pdb
+C:\MyLearn\MyWPFWin\MyMacSolution\Demo.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\MyLearn\MyWPFWin\MyMacSolution\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledButtonBrushes.baml
+C:\MyLearn\MyWPFWin\MyMacSolution\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledTitleBarButtons.baml
+C:\MyLearn\MyWPFWin\MyMacSolution\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledWindow.baml
+C:\MyLearn\MyWPFWin\MyMacSolution\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledWindow.g.cs
+C:\MyLearn\MyWPFWin\MyMacSolution\Demo.Common\obj\Debug\Demo.Common_MarkupCompile.cache
+C:\MyLearn\MyWPFWin\MyMacSolution\Demo.Common\obj\Debug\Demo.Common.g.resources
+C:\MyLearn\MyWPFWin\MyMacSolution\Demo.Common\obj\Debug\Demo.Common.dll
+C:\MyLearn\MyWPFWin\MyMacSolution\Demo.Common\obj\Debug\Demo.Common.pdb
+C:\MyLearn\MyWPFWin\MyMacSolution\WpfApplication1\bin\Debug\Demo.Common.XML
+E:\WinApplication学习中\WPF深入浅出\MyMacSolution\WpfApplication1\bin\Debug\Demo.Common.dll
+E:\WinApplication学习中\WPF深入浅出\MyMacSolution\WpfApplication1\bin\Debug\Demo.Common.pdb
+E:\WinApplication学习中\WPF深入浅出\MyMacSolution\Demo.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\WinApplication学习中\WPF深入浅出\MyMacSolution\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledButtonBrushes.baml
+E:\WinApplication学习中\WPF深入浅出\MyMacSolution\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledTitleBarButtons.baml
+E:\WinApplication学习中\WPF深入浅出\MyMacSolution\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledWindow.baml
+E:\WinApplication学习中\WPF深入浅出\MyMacSolution\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledWindow.g.cs
+E:\WinApplication学习中\WPF深入浅出\MyMacSolution\Demo.Common\obj\Debug\Demo.Common_MarkupCompile.cache
+E:\WinApplication学习中\WPF深入浅出\MyMacSolution\Demo.Common\obj\Debug\Demo.Common.g.resources
+E:\WinApplication学习中\WPF深入浅出\MyMacSolution\Demo.Common\obj\Debug\Demo.Common.dll
+E:\WinApplication学习中\WPF深入浅出\MyMacSolution\Demo.Common\obj\Debug\Demo.Common.pdb
+E:\WinApplication学习中\WPF深入浅出\MyMacSolution\WpfApplication1\bin\Debug\Demo.Common.XML

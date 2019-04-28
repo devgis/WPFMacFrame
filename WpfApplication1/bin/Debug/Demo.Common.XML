@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Demo.Common</name>
+    </assembly>
+    <members>
+        <member name="T:Demo_Common.Resource_Dictionaries.MacStyledWindow">
+            <summary>
+            MacStyledWindow
+            </summary>
+        </member>
+        <member name="M:Demo_Common.Resource_Dictionaries.MacStyledWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,25 @@
+﻿<src:MyMacClass x:Class="WpfApplication1.Window2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:demo="clr-namespace:WpfApplication1"
+    Title="Window2" Height="300" Width="300"
+    xmlns:src="clr-namespace:WpfApplication1"
+    Style="{StaticResource MacWindowStyle}">
+    <Window.Resources>
+        <!--列表模板-->
+        <DataTemplate x:Key="MyTemplate" DataType="{x:Type demo:People}">
+            <Grid VerticalAlignment="Center" HorizontalAlignment="Center" Margin="4,4,4,4" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Image Source="{Binding Photo}" Width="50" Height="50" Grid.Column="0" Grid.RowSpan="1"/>
+                <TextBlock Text="{Binding Name}" Grid.Column="1" Grid.ColumnSpan="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+      </Grid>
+        </DataTemplate>
+    </Window.Resources>
+    
+    <Grid>
+    <ListBox x:Name="listPeople" ItemTemplate="{StaticResource  MyTemplate}" />
+   </Grid>
+</src:MyMacClass>

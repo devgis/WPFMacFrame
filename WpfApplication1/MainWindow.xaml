@@ -1,0 +1,20 @@
+﻿<src:MyMacClass x:Class="WpfApplication1.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:src="clr-namespace:WpfApplication1"
+    Style="{StaticResource MacWindowStyle}"
+        Title="Demo - OwnerDraw Window"  WindowStartupLocation="CenterScreen"
+        Icon="/WpfApplication1;component/Images/Settings.png" Height="396" Width="765">
+    
+    <Grid>
+       
+            <TextBlock Text="My Designed Widows" VerticalAlignment="Top"
+                       FontSize="48"  FontWeight="Bold" Foreground="Beige" Height="54" Margin="153,92,112,0">
+            </TextBlock>
+            <Button Content="Show another window" x:Name="showWindowButton" Click="showWindowButton_Click" Margin="0,0,294,46" Height="39" VerticalAlignment="Bottom" Template="{DynamicResource GlassButton}" Foreground="White" HorizontalAlignment="Right" Width="149" />
+            <Button Height="38" Margin="0,0,294,108" Name="button1" VerticalAlignment="Bottom" Click="button1_Click" Template="{DynamicResource GlassButton}" Foreground="White" HorizontalAlignment="Right" Width="149">Draw</Button>
+            <Label Height="28" Margin="272,38,319,0" Name="label1" VerticalAlignment="Top">This is a label for test</Label>
+        <Image HorizontalAlignment="Left" Margin="68,174,0,34" Name="image1" Stretch="Fill" Width="200" StretchDirection="DownOnly" Source="/WpfApplication1;component/Images/Settings.png" VerticalAlignment="Bottom" ></Image>
+        <Button Margin="0,0,276,152" Name="button2" Template="{DynamicResource GlassButton}" Click="button2_Click" Height="35" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="184">Splash Effect</Button>
+    </Grid>
+</src:MyMacClass>
